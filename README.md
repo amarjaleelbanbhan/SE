@@ -1,7 +1,7 @@
 # SE
 
 ```
-Exported with AIPRM https://www.aiprm.com by Amar Jaleel on 15/10/2024, 16:34:50
+ Amar Jaleel
 ```
 
 ---
