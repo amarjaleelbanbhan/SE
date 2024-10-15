@@ -12,6 +12,7 @@ SE Notes by Amar Jaleel
 
 **🔍 Comprehensive Study Guide for Software Engineering Midterm Exam**
 "
+****
 *Hello ChatGPT,*
 
 I am preparing for my upcoming midterm exam in Software Engineering and need your assistance to cover the following topics comprehensively:
